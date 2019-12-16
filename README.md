@@ -14,6 +14,6 @@ of which may be purchased, with the simple click of a button, whether it be a re
 software may be created by our team, users and software creaters are encouraged to email our team to request to
 add their own software for public sharing so that others may benefit from it too.
 
-All files were created using .aspx and .css files.
+All files were created using .aspx, .css, and .js files
 
 
